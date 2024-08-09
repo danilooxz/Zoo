@@ -1,0 +1,7 @@
+C:\C#\Zologico\Zologico\bin\Debug\Zologico.exe.config
+C:\C#\Zologico\Zologico\bin\Debug\Zologico.exe
+C:\C#\Zologico\Zologico\bin\Debug\Zologico.pdb
+C:\C#\Zologico\Zologico\obj\Debug\Zologico.csproj.AssemblyReference.cache
+C:\C#\Zologico\Zologico\obj\Debug\Zologico.csproj.CoreCompileInputs.cache
+C:\C#\Zologico\Zologico\obj\Debug\Zologico.exe
+C:\C#\Zologico\Zologico\obj\Debug\Zologico.pdb
